@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.9",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "ezfu2inh",
+    "id": "cl3vkm7hv8543301ka3hb249o8",
+    "url": "https://server.amplication.com/cl3vkm7hv8543301ka3hb249o8",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "amp-test",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl3vkm7hv8543301ka3hb249o8",
+      "authProvider": "Jwt"
+    }
+  }
+}
